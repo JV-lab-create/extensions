@@ -1,0 +1,34 @@
+{
+    "extensions": [
+      {
+        "slug": "Popup-Phoenix.js",
+        "id": "popup",
+        "name": "Popup Phoenix",
+        "description": "Create and design custom Popups! A remaster of 'Better Input'",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "image": "/Popup-Phoenix.svg",
+        "by": [
+          {
+            "name": "SharkPool",
+            "link": null
+          }
+        ]
+      },
+      {
+        "slug": "Popup-Phoenix.js",
+        "id": "varexpaned",
+        "name": "Variables Expanded",
+        "description": "Expansion of GarboMuffin's File Extension",
+        "nameTranslations": {},
+        "descriptionTranslations": {},
+        "image": "/Popup-Phoenix.svg",
+        "by": [
+          {
+            "name": "SharkPool, Drago Cuven, 0znzw",
+            "link": null
+          }
+        ]
+      }
+    ]
+}
